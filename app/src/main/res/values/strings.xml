@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Zadanie 6 (PUM)</string>
+    <string name="opis">Boulderdash to klasyczna gra komputerowa z gatunku łamigłówek, która została wydana w latach 80.
+    Gra polega na eksplorowaniu jaskiń w poszukiwaniu diamentów, jednocześnie unikając groźnych
+    przeszkód i zbierając punkty.
+    Cel gry: Celem gracza jest zebranie wszystkich diamentów dostępnych na poziomie oraz dotarcie do
+    wyjścia z jaskini.
+    Jaskinie: Gra składa się z wielu poziomów, z których każdy jest jaskinią, zbudowaną z różnych rodzajów
+    bloków, takich jak ziemia, skały, diamenty, a także niebezpieczne obiekty jak kamienie, pułapki i moby.
+    Gracz: Gracz kontroluje postać o imieniu Rockford, która może kopać dziury w ziemi i przesuwać bloki w
+    poziomie. Gracz musi sprawnie manewrować Rockfordem, aby unikać niebezpieczeństw i zdobywać
+    diamenty.
+    Zasady ruchu: Rockford może poruszać się w czterech kierunkach: w lewo, w prawo, do góry i w dół.
+    Gracz może także kopać dziury w ziemi, co pozwala na spadanie kamieni i innych bloków.
+    Diamenty: Głównym celem gry jest zebranie wszystkich diamentów rozsianych po poziomie. Zbieranie
+    diamentów zwiększa wynik gracza i pozwala na przejście do następnego poziomu.
+    Przeszkody: Na drodze gracza stają różnego rodzaju przeszkody, takie jak kamienie, które mogą
+    zablokować drogę, jak również pułapki, takie jak spadające bloki lub moby, które mogą zniszczyć
+    Rockforda.
+    Wyjście: Po zebraniu wszystkich diamentów gracz musi dotrzeć do wyjścia z jaskini, aby ukończyć
+    poziom.
+    Czas: Czasami gra może być ograniczona czasowo, przez co gracz musi działać szybko, aby ukończyć
+    poziom przed upływem czasu.
+    Punkty: Gracz zdobywa punkty za zbieranie diamentów oraz może zdobyć dodatkowe punkty za
+    wykonywanie zadań specjalnych, takich jak wyeliminowanie wszystkich kamieni z danego obszaru.
+    Poziomy trudności: Wraz z postępem w grze, poziomy stają się coraz trudniejsze, wprowadzając nowe
+    rodzaje przeszkód i bardziej skomplikowane układy.
+    </string>
+</resources>
